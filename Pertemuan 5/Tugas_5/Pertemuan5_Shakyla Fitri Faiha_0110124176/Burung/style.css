@@ -1,0 +1,61 @@
+
+            #header {
+                color: blue;
+                text-align: center;
+                background-color: bisque;
+                font-family: verdana;
+                font-weight: bold;
+            }
+            body {
+                background-color: beige;
+            }
+            blockquote {
+                color: black;
+                font-weight: normal;
+                background-color: rgb(252, 227, 6);
+                border-top: dotted black;
+                border-left: dotted black;
+                
+            }
+            #profil {
+                display: flex;
+                justify-content: space-around;
+                padding: 20px;
+                margin: 20px;
+                text-align: center;
+            }
+            .klik {
+                display: flex;
+                justify-content: space-around;
+            }
+            .gambar {
+                display: flex;
+                justify-content: center;
+            }
+            img {
+                margin: 10px;
+                width: 290px;
+                height: 290px;
+            }
+            .B {
+                font-size: 70px;
+                color: blue;
+            }
+            p {
+                font-family: verdana;
+            }
+            h3 {
+                font-family: Verdana;
+                font-weight: bold;
+            }
+            .koleksi {
+                display: flex;
+                justify-content: center;
+                background-color: black;
+            }
+            .profil {
+                font-family: verdana;
+                display: flex;
+                justify-content: right;
+            }
+
